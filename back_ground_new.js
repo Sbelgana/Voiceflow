@@ -423,7 +423,7 @@ function checkBounds(x, y) {
 }
 
 function createCanvas() {
-  container = document.querySelector('.c-ealvbK');
+  container = document.querySelector('.c-iLVmPU .c-ealvbK');
 	canvas = {
 		a: document.createElement('canvas'),
 		b: document.createElement('canvas')
